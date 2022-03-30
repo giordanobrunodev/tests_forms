@@ -1,0 +1,11 @@
+fieldset
+{
+  background-color:#53a0be;
+  width:300px;
+  height:250px;
+}
+legend
+{
+  font-weight:bold;
+  font-family: "Segoe UI","Arial","Times New Roman";
+}
